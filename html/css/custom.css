@@ -1,0 +1,47 @@
+html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    margin-top:20px;
+    background: #1f2235;
+    font-family: "Baloo Tamma 2", cursive;
+    justify-content: center;
+  }
+
+  /* Fuente */
+  .m-heading {
+    font-family: "Roboto Slab", serif;
+  }
+  
+  /* Nav */
+  .nav {
+    border: 2px solid transparent;
+  }
+
+  /* Alinear items en la fila */
+  .row {
+    justify-content: center;
+    align-items: center;
+  }
+
+  /*Foro*/
+  .icon-1x {
+    font-size: 24px !important;
+  }
+
+  a{
+    text-decoration:none;    
+  }
+
+  .text-primary, a.text-primary:focus, a.text-primary:hover {
+    color: #00ADBB!important;
+  }
+    
+  .text-black, .text-hover-black:hover {
+    color: #000 !important;
+  }
+
+  .font-weight-bold {
+    font-weight: 700 !important;
+  }
